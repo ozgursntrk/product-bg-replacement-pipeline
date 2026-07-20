@@ -1,0 +1,20 @@
+# model weights (downloaded at runtime from the Hub)
+models/
+*.safetensors
+*.pth
+*.onnx
+
+# generated images and experiment outputs
+outputs/
+!outputs/.gitkeep
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# os
+.DS_Store
+Thumbs.db

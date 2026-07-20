@@ -1,0 +1,14 @@
+torch>=2.1.0
+torchvision
+diffusers==0.39.0
+transformers>=4.40.0
+accelerate
+safetensors
+huggingface-hub
+opencv-python-headless
+rembg
+onnxruntime
+Pillow
+numpy
+matplotlib
+gradio>=4.44.0
